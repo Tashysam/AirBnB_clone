@@ -30,7 +30,7 @@ The Commandline Interpreter can be started by executing the command `./console.p
 
 **Example:**
 ```bash
-issa@Obelix:~$ ./console.py
+tasha@Kietar:~$ ./console.py
 (hbnb) help
 
 Documented commands (type help <topic>):
@@ -44,7 +44,7 @@ all  destroy  show  update
 (hbnb) help quit
 Quit command to exit the program
 (hbnb) quit
-issa@Obelix:~$
+Tasha@Kietar:~$
 ```
 ### OBJECTS IMPLEMENTED
 This repository contains the following files:
